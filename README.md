@@ -2,7 +2,7 @@
 ## 🏘️ Barrio Privado San José III-IV
 
 [![Estado](https://img.shields.io/badge/Estado-Documentaci%C3%B3n%20activa-1f6feb)](./README.md)
-[![Fase 1](https://img.shields.io/badge/Fase%201-Robusta%20TelePASE-2ea043)](./PDFPropuestaCliente/Propuesta_Tecnico_Comercial_B2B_San_Jose_III_IV.pdf)
+[![Fase 1](https://img.shields.io/badge/Fase%201-TelePASE%20principal-2ea043)](./PDFPropuestaCliente/Propuesta_Tecnico_Comercial_B2B_San_Jose_III_IV.pdf)
 [![Fase 2](https://img.shields.io/badge/Fase%202-QR%20opcional-f59e0b)](./PDFPropuestaCliente/Propuesta_Tecnico_Comercial_B2B_San_Jose_III_IV.pdf)
 [![Repositorio](https://img.shields.io/badge/Tipo-Acad%C3%A9mico%20%2B%20Comercial-7c3aed)](./Actividad1/Seminario%20Integrador%202026-%20Grupo%20xx-%20Actividad%201.pdf)
 
@@ -14,7 +14,7 @@ Implementar una solución robusta que mejore seguridad y velocidad de ingreso, r
 
 ## 🧩 Enfoque por etapas
 **Fase 1**  
-Implementación principal y robusta con TelePASE para propietarios, registro centralizado y control por roles.
+Implementación principal con TelePASE para propietarios, registro centralizado y control por roles.
 
 **Fase 2 opcional**  
 Evolución del canal QR para visitas y excepciones, con presupuesto independiente y decisión posterior de la comisión.
