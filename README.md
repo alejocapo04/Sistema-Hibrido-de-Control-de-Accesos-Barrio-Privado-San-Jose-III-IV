@@ -1,10 +1,10 @@
 # 🚧 Sistema Híbrido de Control de Accesos
 ## 🏘️ Barrio Privado San José III-IV
 
-![Estado](https://img.shields.io/badge/Estado-Documentaci%C3%B3n%20activa-1f6feb)
-![Fase 1](https://img.shields.io/badge/Fase%201-Robusta%20TelePASE-2ea043)
-![Fase 2](https://img.shields.io/badge/Fase%202-QR%20opcional-f59e0b)
-![Repositorio](https://img.shields.io/badge/Tipo-Acad%C3%A9mico%20%2B%20Comercial-7c3aed)
+[![Estado](https://img.shields.io/badge/Estado-Documentaci%C3%B3n%20activa-1f6feb)](./README.md)
+[![Fase 1](https://img.shields.io/badge/Fase%201-Robusta%20TelePASE-2ea043)](./PDFPropuestaCliente/Propuesta_Tecnico_Comercial_B2B_San_Jose_III_IV.pdf)
+[![Fase 2](https://img.shields.io/badge/Fase%202-QR%20opcional-f59e0b)](./PDFPropuestaCliente/Propuesta_Tecnico_Comercial_B2B_San_Jose_III_IV.pdf)
+[![Repositorio](https://img.shields.io/badge/Tipo-Acad%C3%A9mico%20%2B%20Comercial-7c3aed)](./Actividad1/Seminario%20Integrador%202026-%20Grupo%20xx-%20Actividad%201.pdf)
 
 Este repositorio concentra la base documental del proyecto de control de accesos.  
 El foco es transformar el proceso manual de garita en una operación digital, trazable y sostenible en el tiempo.
@@ -22,8 +22,8 @@ Evolución del canal QR para visitas y excepciones, con presupuesto independient
 ## 📁 Contenido del repositorio
 | Documento | Ruta | Propósito |
 |---|---|---|
-| Entrega académica inicial | `Actividad1/Seminario Integrador 2026- Grupo xx- Actividad 1.pdf` | Relevamiento del caso, entrevista preliminar y alcance inicial |
-| Propuesta técnico-comercial | `PDFPropuestaCliente/Propuesta_Tecnico_Comercial_B2B_San_Jose_III_IV.pdf` | Arquitectura funcional, alcance, escenarios de inversión y plan |
+| Entrega académica inicial | [Abrir PDF](./Actividad1/Seminario%20Integrador%202026-%20Grupo%20xx-%20Actividad%201.pdf) | Relevamiento del caso, entrevista preliminar y alcance inicial |
+| Propuesta técnico-comercial | [Abrir PDF](./PDFPropuestaCliente/Propuesta_Tecnico_Comercial_B2B_San_Jose_III_IV.pdf) | Arquitectura funcional, alcance, escenarios de inversión y plan |
 
 ## 🛠️ Alcance del equipo de software
 | Incluido | No incluido |
