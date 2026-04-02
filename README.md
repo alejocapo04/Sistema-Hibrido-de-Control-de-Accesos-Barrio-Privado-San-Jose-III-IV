@@ -1,66 +1,50 @@
-# Sistema Híbrido de Control de Accesos
-## Barrio Privado San José III-IV
+# 🚧 Sistema Híbrido de Control de Accesos
+## 🏘️ Barrio Privado San José III-IV
 
-Repositorio de documentación funcional, académica y comercial del proyecto de control de accesos para el Barrio Privado San José III-IV.
+![Estado](https://img.shields.io/badge/Estado-Documentaci%C3%B3n%20activa-1f6feb)
+![Fase 1](https://img.shields.io/badge/Fase%201-Robusta%20TelePASE-2ea043)
+![Fase 2](https://img.shields.io/badge/Fase%202-QR%20opcional-f59e0b)
+![Repositorio](https://img.shields.io/badge/Tipo-Acad%C3%A9mico%20%2B%20Comercial-7c3aed)
 
-## Objetivo del proyecto
-Diseñar e implementar una solución robusta para digitalizar el control de ingresos y egresos en garita, reemplazando el registro manual en papel por un sistema con trazabilidad operativa, mejor seguridad y mayor velocidad de acceso.
+Este repositorio concentra la base documental del proyecto de control de accesos.  
+El foco es transformar el proceso manual de garita en una operación digital, trazable y sostenible en el tiempo.
 
-## Enfoque funcional
-La solución se plantea en dos etapas.
+## 🎯 Objetivo
+Implementar una solución robusta que mejore seguridad y velocidad de ingreso, reduzca carga operativa del personal y permita auditoría confiable de entradas, salidas y acciones administrativas.
 
-### Fase 1
-- Núcleo robusto de acceso con TelePASE para propietarios
-- Registro centralizado de eventos de entrada y salida
-- Gestión de roles y auditoría de acciones
+## 🧩 Enfoque por etapas
+**Fase 1**  
+Implementación principal y robusta con TelePASE para propietarios, registro centralizado y control por roles.
 
-### Fase 2 opcional
-- Evolución del canal QR para visitas y excepciones
-- Variante económica asistida por garita
-- Variante robusta con lectura automática en campo
-- Presupuesto y ejecución independientes de la Fase 1
+**Fase 2 opcional**  
+Evolución del canal QR para visitas y excepciones, con presupuesto independiente y decisión posterior de la comisión.
 
-## Estado actual del repositorio
-Este repositorio está orientado a documentación y propuesta.
-Por ahora no incluye código fuente productivo del sistema.
+## 📁 Contenido del repositorio
+| Documento | Ruta | Propósito |
+|---|---|---|
+| Entrega académica inicial | `Actividad1/Seminario Integrador 2026- Grupo xx- Actividad 1.pdf` | Relevamiento del caso, entrevista preliminar y alcance inicial |
+| Propuesta técnico-comercial | `PDFPropuestaCliente/Propuesta_Tecnico_Comercial_B2B_San_Jose_III_IV.pdf` | Arquitectura funcional, alcance, escenarios de inversión y plan |
 
-## Contenido
-### 1. Entrega académica inicial
-- Ruta: `Actividad1/Seminario Integrador 2026- Grupo xx- Actividad 1.pdf`
-- Incluye relevamiento del caso real, entrevista preliminar, alcance funcional y lineamientos de diseño inicial.
+## 🛠️ Alcance del equipo de software
+| Incluido | No incluido |
+|---|---|
+| Diseño funcional del sistema | Montaje físico de hardware en campo |
+| Desarrollo de backend, frontend y lógica de validación | Cableado y adecuación electromecánica |
+| Trazabilidad y auditoría de eventos | Instalación de sensores de barrera como fotocélulas o equivalentes de cruce |
+| Operación por roles: administración, garita y propietario | Contratación de mano de obra técnica de seguridad electrónica |
 
-### 2. Propuesta técnico-comercial para cliente
-- Ruta: `PDFPropuestaCliente/Propuesta_Tecnico_Comercial_B2B_San_Jose_III_IV.pdf`
-- Incluye alcance comercial, arquitectura funcional, robustez esperada, escenarios de inversión y plan de implementación por etapas.
+## ⚡ Requisito de infraestructura clave
+Para operación automática completa, la barrera debe entregar señal digital de cruce vehicular al sistema.  
+Si esa señal no está disponible, el flujo puede operar en modo asistido por garita sin perder trazabilidad.
 
-## Alcance del equipo de software
-Incluido:
-- Diseño funcional del sistema
-- Desarrollo de backend, frontend y lógica de validación
-- Auditoría y trazabilidad de eventos
-- Operación por roles de administración, garita y propietario
+## ✅ Beneficio esperado
+Menos demoras en picos de tránsito, mayor control de accesos no homogéneos y una base tecnológica preparada para evolución de largo plazo.
 
-No incluido:
-- Montaje físico de hardware en campo
-- Cableado y adecuación electromecánica
-- Instalación de sensores de seguridad de barrera como fotocélulas o equivalentes de cruce
+## 🚀 Cómo usar este repo
+1. Leer la entrega académica para contexto y reglas del caso.
+2. Revisar la propuesta comercial para alcance y costos.
+3. Usar ambos documentos como base de validación con la comisión del barrio.
 
-## Requisitos de infraestructura para operación completa
-Para una operación totalmente automática, la barrera debe proveer señal digital de cruce vehicular al sistema.
-Si esa señal no está disponible, el flujo puede operar en modo asistido por garita, manteniendo la trazabilidad.
-
-## Beneficio esperado para el barrio
-- Reducción de tiempos de ingreso en picos de tránsito
-- Menor carga manual del personal de guardia
-- Mayor control de visitantes y contratistas
-- Historial confiable para auditoría y seguimiento de incidentes
-- Base escalable para más de diez años de evolución
-
-## Uso de este repositorio
-1. Revisar la entrega académica para contexto y criterios de diseño.
-2. Revisar la propuesta técnico-comercial para presupuesto, alcance y estrategia de implementación.
-3. Usar ambos documentos como base para la definición final con la comisión del barrio.
-
-## Nota
-Los costos de hardware e instalación dependen de cotizaciones vigentes y validación en campo.
-Siempre deben reconfirmarse antes de la decisión de compra.
+## 📌 Nota final
+Los costos de hardware e instalación dependen de cotizaciones vigentes y validación física en campo.  
+Antes de comprar, confirmar precios y disponibilidad con proveedores.
