@@ -1,50 +1,36 @@
-# 🚧 Sistema Híbrido de Control de Accesos
-## 🏘️ Barrio Privado San José III-IV
+# Seminario Integrador 2026 - Grupo 04
+## Actividad 1
 
-[![Estado](https://img.shields.io/badge/Estado-Documentaci%C3%B3n%20activa-1f6feb)](./README.md)
-[![Fase 1](https://img.shields.io/badge/Fase%201-TelePASE%20principal-2ea043)](./PDFPropuestaCliente/Propuesta_Tecnico_Comercial_B2B_San_Jose_III_IV.pdf)
-[![Fase 2](https://img.shields.io/badge/Fase%202-QR%20opcional-f59e0b)](./PDFPropuestaCliente/Propuesta_Tecnico_Comercial_B2B_San_Jose_III_IV.pdf)
-[![Repositorio](https://img.shields.io/badge/Tipo-Acad%C3%A9mico%20%2B%20Comercial-7c3aed)](./Actividad1/Seminario%20Integrador%202026-%20Grupo%20xx-%20Actividad%201.pdf)
+[![Estado](https://img.shields.io/badge/Estado-Documento%20cargado-1f6feb)](./README.md)
+[![Formato](https://img.shields.io/badge/Entrega-PDF-2ea043)](./Actividad1/Seminario%20Integrador%202026-%20Grupo%2004-%20Actividad%201.pdf)
+[![Cátedra](https://img.shields.io/badge/UTN-La%20Plata-f59e0b)](./Actividad1/Seminario%20Integrador%202026-%20Grupo%2004-%20Actividad%201.pdf)
 
-Este repositorio concentra la base documental del proyecto de control de accesos.  
-El foco es transformar el proceso manual de garita en una operación digital, trazable y sostenible en el tiempo.
+Este repositorio contiene la entrega de la **Actividad 1** de Seminario Integrador (UTN La Plata), correspondiente al **Grupo 04**.
 
-## 🎯 Objetivo
-Implementar una solución robusta que mejore seguridad y velocidad de ingreso, reduzca carga operativa del personal y permita auditoría confiable de entradas, salidas y acciones administrativas.
-
-## 🧩 Enfoque por etapas
-**Fase 1**  
-Implementación principal con TelePASE para propietarios, registro centralizado y control por roles.
-
-**Fase 2 opcional**  
-Evolución del canal QR para visitas y excepciones, con presupuesto independiente y decisión posterior de la comisión.
-
-## 📁 Contenido del repositorio
-| Documento | Ruta | Propósito |
+## Documento disponible
+| Documento | Ruta | Descripción |
 |---|---|---|
-| Entrega académica inicial | [Abrir PDF](./Actividad1/Seminario%20Integrador%202026-%20Grupo%20xx-%20Actividad%201.pdf) | Relevamiento del caso, entrevista preliminar y alcance inicial |
-| Propuesta técnico-comercial | [Abrir PDF](./PDFPropuestaCliente/Propuesta_Tecnico_Comercial_B2B_San_Jose_III_IV.pdf) | Arquitectura funcional, alcance, escenarios de inversión y plan |
+| Informe N°1 - Actividad N°1 | [Abrir PDF](./Actividad1/Seminario%20Integrador%202026-%20Grupo%2004-%20Actividad%201.pdf) | Presentación del tema, objetivos del sistema, problemática del cliente y cuestionario de entrevista |
 
-## 🛠️ Alcance del equipo de software
-| Incluido | No incluido |
-|---|---|
-| Diseño funcional del sistema | Montaje físico de hardware en campo |
-| Desarrollo de backend, frontend y lógica de validación | Cableado y adecuación electromecánica |
-| Trazabilidad y auditoría de eventos | Instalación de sensores de barrera como fotocélulas o equivalentes de cruce |
-| Operación por roles: administración, garita y propietario | Contratación de mano de obra técnica de seguridad electrónica |
+## Resumen del contenido leído
+La actividad propone desarrollar un **Sistema de Gestión Integral (ERP)** para una óptica, cubriendo el flujo completo desde el ingreso del cliente hasta la entrega del producto.
 
-## ⚡ Requisito de infraestructura clave
-Para operación automática completa, la barrera debe entregar señal digital de cruce vehicular al sistema.  
-Si esa señal no está disponible, el flujo puede operar en modo asistido por garita sin perder trazabilidad.
+Objetivos principales del sistema:
+- Centralizar historial de recetas, clientes, anteojos y lentes de contacto.
+- Monitorear el ciclo de vida de órdenes de trabajo de punta a punta.
+- Integrar facturación y trazabilidad comercial.
+- Gestionar postventa, reclamos y garantías.
+- Automatizar notificaciones a clientes por WhatsApp.
 
-## ✅ Beneficio esperado
-Menos demoras en picos de tránsito, mayor control de accesos no homogéneos y una base tecnológica preparada para evolución de largo plazo.
+Problemáticas detectadas en el cliente:
+- Seguimiento manual ineficiente de órdenes.
+- Dificultad para validar garantías por falta de archivo digital accesible.
+- Cuellos de botella en la comunicación con clientes.
+- Acumulación de trabajos terminados no retirados.
+- Baja visibilidad financiera y cierre diario poco preciso.
+- Carga administrativa redundante.
 
-## 🚀 Cómo usar este repo
-1. Leer la entrega académica para contexto y reglas del caso.
-2. Revisar la propuesta comercial para alcance y costos.
-3. Usar ambos documentos como base de validación con la comisión del barrio.
-
-## 📌 Nota final
-Los costos de hardware e instalación dependen de cotizaciones vigentes y validación física en campo.  
-Antes de comprar, confirmar precios y disponibilidad con proveedores.
+## Cómo usar este repo
+1. Abrir el PDF de `Actividad1`.
+2. Revisar la descripción del caso y los objetivos del sistema.
+3. Usar el cuestionario propuesto para preparar la entrevista con el cliente.
